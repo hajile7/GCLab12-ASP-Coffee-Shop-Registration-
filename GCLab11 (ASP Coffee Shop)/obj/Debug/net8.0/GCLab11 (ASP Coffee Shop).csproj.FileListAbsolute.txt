@@ -1,0 +1,30 @@
+C:\Users\elire\source\repos\GC Labs\GCLab11 (ASP Coffee Shop)\GCLab11 (ASP Coffee Shop)\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\elire\source\repos\GC Labs\GCLab11 (ASP Coffee Shop)\GCLab11 (ASP Coffee Shop)\bin\Debug\net8.0\appsettings.json
+C:\Users\elire\source\repos\GC Labs\GCLab11 (ASP Coffee Shop)\GCLab11 (ASP Coffee Shop)\bin\Debug\net8.0\GCLab11 (ASP Coffee Shop).staticwebassets.runtime.json
+C:\Users\elire\source\repos\GC Labs\GCLab11 (ASP Coffee Shop)\GCLab11 (ASP Coffee Shop)\bin\Debug\net8.0\GCLab11 (ASP Coffee Shop).exe
+C:\Users\elire\source\repos\GC Labs\GCLab11 (ASP Coffee Shop)\GCLab11 (ASP Coffee Shop)\bin\Debug\net8.0\GCLab11 (ASP Coffee Shop).deps.json
+C:\Users\elire\source\repos\GC Labs\GCLab11 (ASP Coffee Shop)\GCLab11 (ASP Coffee Shop)\bin\Debug\net8.0\GCLab11 (ASP Coffee Shop).runtimeconfig.json
+C:\Users\elire\source\repos\GC Labs\GCLab11 (ASP Coffee Shop)\GCLab11 (ASP Coffee Shop)\bin\Debug\net8.0\GCLab11 (ASP Coffee Shop).dll
+C:\Users\elire\source\repos\GC Labs\GCLab11 (ASP Coffee Shop)\GCLab11 (ASP Coffee Shop)\bin\Debug\net8.0\GCLab11 (ASP Coffee Shop).pdb
+C:\Users\elire\source\repos\GC Labs\GCLab11 (ASP Coffee Shop)\GCLab11 (ASP Coffee Shop)\obj\Debug\net8.0\GCLab11 (ASP Coffee Shop).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elire\source\repos\GC Labs\GCLab11 (ASP Coffee Shop)\GCLab11 (ASP Coffee Shop)\obj\Debug\net8.0\GCLab11 (ASP Coffee Shop).AssemblyInfoInputs.cache
+C:\Users\elire\source\repos\GC Labs\GCLab11 (ASP Coffee Shop)\GCLab11 (ASP Coffee Shop)\obj\Debug\net8.0\GCLab11 (ASP Coffee Shop).AssemblyInfo.cs
+C:\Users\elire\source\repos\GC Labs\GCLab11 (ASP Coffee Shop)\GCLab11 (ASP Coffee Shop)\obj\Debug\net8.0\GCLab11 (ASP Coffee Shop).csproj.CoreCompileInputs.cache
+C:\Users\elire\source\repos\GC Labs\GCLab11 (ASP Coffee Shop)\GCLab11 (ASP Coffee Shop)\obj\Debug\net8.0\GCLab11 (ASP Coffee Shop).MvcApplicationPartsAssemblyInfo.cache
+C:\Users\elire\source\repos\GC Labs\GCLab11 (ASP Coffee Shop)\GCLab11 (ASP Coffee Shop)\obj\Debug\net8.0\GCLab11 (ASP Coffee Shop).RazorAssemblyInfo.cache
+C:\Users\elire\source\repos\GC Labs\GCLab11 (ASP Coffee Shop)\GCLab11 (ASP Coffee Shop)\obj\Debug\net8.0\GCLab11 (ASP Coffee Shop).RazorAssemblyInfo.cs
+C:\Users\elire\source\repos\GC Labs\GCLab11 (ASP Coffee Shop)\GCLab11 (ASP Coffee Shop)\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\elire\source\repos\GC Labs\GCLab11 (ASP Coffee Shop)\GCLab11 (ASP Coffee Shop)\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\elire\source\repos\GC Labs\GCLab11 (ASP Coffee Shop)\GCLab11 (ASP Coffee Shop)\obj\Debug\net8.0\staticwebassets\msbuild.GCLab11 (ASP Coffee Shop).Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\elire\source\repos\GC Labs\GCLab11 (ASP Coffee Shop)\GCLab11 (ASP Coffee Shop)\obj\Debug\net8.0\staticwebassets\msbuild.build.GCLab11 (ASP Coffee Shop).props
+C:\Users\elire\source\repos\GC Labs\GCLab11 (ASP Coffee Shop)\GCLab11 (ASP Coffee Shop)\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.GCLab11 (ASP Coffee Shop).props
+C:\Users\elire\source\repos\GC Labs\GCLab11 (ASP Coffee Shop)\GCLab11 (ASP Coffee Shop)\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.GCLab11 (ASP Coffee Shop).props
+C:\Users\elire\source\repos\GC Labs\GCLab11 (ASP Coffee Shop)\GCLab11 (ASP Coffee Shop)\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\elire\source\repos\GC Labs\GCLab11 (ASP Coffee Shop)\GCLab11 (ASP Coffee Shop)\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\elire\source\repos\GC Labs\GCLab11 (ASP Coffee Shop)\GCLab11 (ASP Coffee Shop)\obj\Debug\net8.0\scopedcss\bundle\GCLab11 (ASP Coffee Shop).styles.css
+C:\Users\elire\source\repos\GC Labs\GCLab11 (ASP Coffee Shop)\GCLab11 (ASP Coffee Shop)\obj\Debug\net8.0\scopedcss\projectbundle\GCLab11 (ASP Coffee Shop).bundle.scp.css
+C:\Users\elire\source\repos\GC Labs\GCLab11 (ASP Coffee Shop)\GCLab11 (ASP Coffee Shop)\obj\Debug\net8.0\GCLab11 (ASP Coffee Shop).dll
+C:\Users\elire\source\repos\GC Labs\GCLab11 (ASP Coffee Shop)\GCLab11 (ASP Coffee Shop)\obj\Debug\net8.0\refint\GCLab11 (ASP Coffee Shop).dll
+C:\Users\elire\source\repos\GC Labs\GCLab11 (ASP Coffee Shop)\GCLab11 (ASP Coffee Shop)\obj\Debug\net8.0\GCLab11 (ASP Coffee Shop).pdb
+C:\Users\elire\source\repos\GC Labs\GCLab11 (ASP Coffee Shop)\GCLab11 (ASP Coffee Shop)\obj\Debug\net8.0\GCLab11 (ASP Coffee Shop).genruntimeconfig.cache
+C:\Users\elire\source\repos\GC Labs\GCLab11 (ASP Coffee Shop)\GCLab11 (ASP Coffee Shop)\obj\Debug\net8.0\ref\GCLab11 (ASP Coffee Shop).dll

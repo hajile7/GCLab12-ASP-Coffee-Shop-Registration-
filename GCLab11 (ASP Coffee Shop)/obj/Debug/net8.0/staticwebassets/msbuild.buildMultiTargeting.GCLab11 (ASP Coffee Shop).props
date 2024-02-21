@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\GCLab11 (ASP Coffee Shop).props" />
+</Project>

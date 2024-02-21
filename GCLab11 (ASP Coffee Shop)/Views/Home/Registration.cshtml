@@ -1,0 +1,31 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<form asp-method = "post" asp-action="Result">
+    <p style="text-align:center">All below fields are <u>REQUIRED</u></p>
+    <div style="text-align: center">
+    <label for="firstName">Please enter your first name:</label>
+    <input type = "text" name="firstName" id="firstName" required/> @*you can literally bypass required with whitespace.... figure out*@
+    <br />
+    <label for="lastName">Please enter your last name:</label>
+    <input type="text" name="lastName" id="lastName" required/>
+    <br />
+    <label style="margin-right: 25px" for="email">Please enter your email:</label> @*email type can be bypassed by simply including @ at the end of input string*@
+    <input type="email" name="email" id="email" required/>
+    <br />
+    <label for="password">Please enter your password:</label>
+    <input type="password" name="password" id="password" required/>
+    <br />
+    <label for="preference">Please select your preference:</label>
+    <br />
+    <input type="radio" name="preference" id="Dark Mode" value="Dark Mode" required/>
+    <label for="Dark Mode">Dark Mode</label>
+    <br />
+    <input type="radio" name="preference" id="Light Mode" value="Light Mode" required/>
+    <label for="Light Mode">Light Mode</label>
+    <br />
+    <input style ="margin: 10px" type = "submit"/>
+    </div>
+</form>

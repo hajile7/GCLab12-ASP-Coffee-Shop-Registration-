@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "GCLab11 (ASP Coffee Shop)/1.0.0": {
+        "runtime": {
+          "GCLab11 (ASP Coffee Shop).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GCLab11 (ASP Coffee Shop)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
